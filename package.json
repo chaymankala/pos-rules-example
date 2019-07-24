@@ -1,0 +1,9 @@
+{
+    "name": "POSRules",
+    "scripts": {
+        "start": "node ./src/index.js"
+    },
+    "dependencies": {
+        "pos-rules": "0.0.3"
+    }
+}
